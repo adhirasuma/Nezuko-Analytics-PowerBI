@@ -1,0 +1,98 @@
+Arc_Phase,Battle_Context,Combat_Form,Action_Type,Attack_Or_Ability,Target_Type,Range_Class,Damage_Type,Power,Agility,Durability,Battle_IQ,Experience_Points,Stamina_Cost,RPG_Role
+Phase 1,Mt. Sagiri Training,Base Demon Form,Physical Attack,Demon Claw Slash,Single Target,Melee,Slashing,35,50,40,20,50,10,Brawler
+Phase 1,Mt. Sagiri Training,Base Demon Form,Evasion / Mobility,Leap Evasion,Self,Self,Utility,10,65,30,25,40,15,Skirmisher
+Phase 1,Mt. Sagiri Training,Base Demon Form,Defensive,Iron Kick Deflection,Single Target,Melee,Bludgeoning,40,45,60,30,60,20,Frontline Tank
+Phase 1,Mt. Sagiri Training,Base Demon Form,Passive,Sunlight Vulnerability,Self,Self,Debuff,0,10,10,10,0,0,Condition
+Phase 1,Mt. Sagiri Training,Child Form,Utility,Size Shrinking,Self,Self,Buff,5,80,20,40,80,10,Evasive Support
+Phase 1,Mt. Sagiri Training,Child Form,Hiding,Box Concealment,Self,Self,Utility,0,30,70,50,70,5,Recovery
+Phase 1,Mt. Sagiri Training,Base Demon Form,Physical Attack,Axe Kick,Single Target,Melee,Bludgeoning,50,45,45,25,80,25,Striker
+Phase 1,Mt. Sagiri Training,Base Demon Form,Buff,Demonic Rage Boost,Self,Self,Buff,55,50,55,20,90,30,Berserker
+Phase 1,First Encounter Arc,Base Demon Form,Physical Attack,Sledgehammer Dropkick,Single Target,Melee,Bludgeoning,60,55,50,30,110,35,Striker
+Phase 1,First Encounter Arc,Base Demon Form,Defensive,Headbutt Counter,Single Target,Melee,Bludgeoning,45,40,65,35,100,20,Counter
+Phase 1,First Encounter Arc,Base Demon Form,Physical Attack,Sweep Kick,AoE (Close),Melee,Bludgeoning,40,60,40,30,100,20,Crowd Control
+Phase 1,First Encounter Arc,Base Demon Form,Passive,Demon Vitality,Self,Self,Buff,0,20,75,10,120,0,Sustain
+Phase 1,Swamp Demon Battle,Base Demon Form,Physical Attack,Underwater Heavy Strike,Single Target,Melee,Bludgeoning,55,40,60,40,150,30,Striker
+Phase 1,Swamp Demon Battle,Base Demon Form,Mobility,Swamp Water Sprint,Self,Self,Utility,20,70,50,40,130,20,Skirmisher
+Phase 1,Swamp Demon Battle,Base Demon Form,Physical Attack,Double Arm Cleave,Multiple Targets,Melee,Slashing,50,50,45,35,140,25,Striker
+Phase 1,Swamp Demon Battle,Base Demon Form,Defensive,Body Shielding,Ally Target,Melee,Bludgeoning,20,45,80,50,160,30,Guardian
+Phase 1,Swamp Demon Battle,Base Demon Form,Physical Attack,Stomping Crush,Single Target,Melee,Bludgeoning,60,35,55,30,150,35,Striker
+Phase 1,Asakusa Arc,Base Demon Form,Physical Attack,Temari Kick Return,Single Target,Ranged,Bludgeoning,70,65,60,55,220,40,Counter
+Phase 1,Asakusa Arc,Base Demon Form,Defensive,Leg Regeneration,Self,Self,Heal,0,20,85,20,200,60,Sustain
+Phase 1,Asakusa Arc,Base Demon Form,Physical Attack,High-Velocity Kick Combo,Single Target,Melee,Bludgeoning,68,70,55,45,230,50,Combo Striker
+Phase 1,Asakusa Arc,Base Demon Form,Buff,Tamayo Blood Serum Synergy,Self,Self,Buff,10,30,90,60,250,20,Support Buff
+Phase 1,Asakusa Arc,Base Demon Form,Physical Attack,Shattering Axe Heel,Single Target,Melee,Bludgeoning,72,55,60,40,240,45,Striker
+Phase 1,Mt. Natagumo Arc,Base Demon Form,Utility,Thread Entanglement Break,Self,Self,Cleanse,30,60,50,50,280,25,Support
+Phase 1,Mt. Natagumo Arc,Base Demon Form,Defensive,Brother Interception,Ally Target,Melee,Bludgeoning,35,70,80,60,300,40,Guardian
+Phase 1,Mt. Natagumo Arc,Awakened Form,Blood Demon Art,Pyrokinesis: Exploding Blood,AoE (Medium),Medium,Fire / Demon Burn,88,60,65,65,450,75,Nuker
+Phase 1,Mt. Natagumo Arc,Awakened Form,Blood Demon Art,Flaming Thread Igniter,AoE (Linear),Ranged,Fire,82,65,55,70,420,65,Control Nuker
+Phase 1,Mt. Natagumo Arc,Awakened Form,Blood Demon Art,Nichirin Blade Enchant,Ally Target,Melee,Buff (Fire),90,50,60,75,500,70,Enchanter
+Phase 1,Mt. Natagumo Arc,Base Demon Form,Passive,Hypnotic Guardian Condition,Self,Self,Buff,0,10,100,80,350,0,Passive Guard
+Phase 1,Mt. Natagumo Arc,Base Demon Form,Mobility,Treetop Bound,Self,Self,Utility,15,85,40,55,310,15,Skirmisher
+Phase 1,Mt. Natagumo Arc,Base Demon Form,Physical Attack,Air-to-Ground Stomp,Single Target,Melee,Bludgeoning,65,60,55,45,330,35,Striker
+Phase 2,Mugen Train Arc,Base Demon Form,Utility,Wake-Up Headbutt,Ally Target,Melee,Bludgeoning,30,50,60,65,400,15,Support
+Phase 2,Mugen Train Arc,Base Demon Form,Blood Demon Art,Dream Thread Pyre,AoE (Medium),Medium,Fire,78,55,50,75,480,50,Purifier
+Phase 2,Mugen Train Arc,Base Demon Form,Physical Attack,Train Car Claw Sweep,Multiple Targets,Melee,Slashing,58,65,50,50,420,30,Striker
+Phase 2,Mugen Train Arc,Base Demon Form,Defensive,Passenger Shielding,Multiple Allies,Melee,Utility,25,50,85,70,460,40,Guardian
+Phase 2,Mugen Train Arc,Base Demon Form,Blood Demon Art,Flesh Core Burn,Single Target,Melee,Fire,85,60,55,70,520,65,Nuker
+Phase 2,Mugen Train Arc,Base Demon Form,Physical Attack,Roof-Running Kick,Single Target,Melee,Bludgeoning,60,75,50,55,440,25,Skirmisher
+Phase 2,Mugen Train Arc,Base Demon Form,Passive,Sleep-Fighting Instinct,Self,Self,Buff,0,65,70,40,410,0,Passives
+Phase 2,Mugen Train Arc,Base Demon Form,Utility,Rope Burning,Ally Target,Melee,Fire,40,40,50,65,430,20,Purifier
+Phase 3,Entertainment District Arc,Base Demon Form,Physical Attack,Roof-Collapse Kick,Single Target,Melee,Bludgeoning,70,65,65,55,600,40,Striker
+Phase 3,Entertainment District Arc,Base Demon Form,Defensive,Sash Cut Interception,Single Target,Melee,Slashing,55,75,70,60,580,30,Guardian
+Phase 3,Entertainment District Arc,Berserk Form,Transformation,Horn Awakened Form,Self,Self,Buff,95,85,90,40,850,90,Transformation
+Phase 3,Entertainment District Arc,Berserk Form,Physical Attack,Crushing Heel Drop,Single Target,Melee,Bludgeoning,92,75,85,35,800,60,Heavy Striker
+Phase 3,Entertainment District Arc,Berserk Form,Physical Attack,Triple Claw Shred,Single Target,Melee,Slashing,88,80,75,40,780,50,Combo Striker
+Phase 3,Entertainment District Arc,Berserk Form,Blood Demon Art,Crimson Flame Burst,AoE (Large),Medium,Fire,96,70,80,50,950,85,Nuker
+Phase 3,Entertainment District Arc,Berserk Form,Blood Demon Art,Blood Detonation Wave,AoE (Large),Ranged,Fire,94,65,75,55,920,80,Crowd Control
+Phase 3,Entertainment District Arc,Berserk Form,Passive,Instant Limb Reattachment,Self,Self,Heal,0,20,100,20,900,40,Sustain
+Phase 3,Entertainment District Arc,Berserk Form,Defensive,Coagulated Blood Shield,Self,Self,Defensive,20,30,98,45,840,45,Tank
+Phase 3,Entertainment District Arc,Berserk Form,Physical Attack,Wall-Slam Kick,Single Target,Melee,Bludgeoning,90,80,80,40,820,55,Striker
+Phase 3,Entertainment District Arc,Berserk Form,Physical Attack,Brutal Decapitating Kick,Single Target,Melee,Bludgeoning,95,75,80,35,890,70,Finisher
+Phase 3,Entertainment District Arc,Berserk Form,Blood Demon Art,Flaming Blood Trap,Field Trap,Medium,Fire,86,55,70,65,860,60,Tactical
+Phase 3,Entertainment District Arc,Berserk Form,Physical Attack,Frenzy Claw Flurry,Multiple Targets,Melee,Slashing,89,85,75,30,830,65,Berserker
+Phase 3,Entertainment District Arc,Berserk Form,Passive,Berserk Fury,Self,Self,Buff,50,40,85,15,880,0,Condition
+Phase 3,Entertainment District Arc,Berserk Form,Utility,Poison Curing Burn,Ally Target,Melee,Fire,60,50,60,85,910,65,Purifier
+Phase 3,Entertainment District Arc,Base Demon Form,Utility,Lullaby Calming,Self,Self,Cleanse,0,10,40,90,700,10,Recovery
+Phase 4,Swordsmith Village Arc,Base Demon Form,Physical Attack,Thunder-Assisted Dropkick,Single Target,Melee,Bludgeoning,80,85,70,70,1100,45,Striker
+Phase 4,Swordsmith Village Arc,Base Demon Form,Blood Demon Art,Exploding Blood: Blade Ignite,Ally Target,Melee,Buff (Fire),95,65,75,85,1300,75,Enchanter
+Phase 4,Swordsmith Village Arc,Base Demon Form,Defensive,Clone Lightning Resistance,Self,Self,Defensive,10,40,92,75,1050,30,Tank
+Phase 4,Swordsmith Village Arc,Base Demon Form,Physical Attack,Claw Sweep vs Hantengu Clones,Multiple Targets,Melee,Slashing,72,75,65,65,1020,35,Striker
+Phase 4,Swordsmith Village Arc,Base Demon Form,Utility,Biting Blood Igneous,Self,Self,Blood Cost,75,60,60,80,1080,40,Tactical
+Phase 4,Swordsmith Village Arc,Base Demon Form,Physical Attack,Sonic Wave Interception Kick,Single Target,Melee,Bludgeoning,78,80,70,75,1060,40,Counter
+Phase 4,Swordsmith Village Arc,Child Form,Evasion,Under-Leg Dodge,Self,Self,Evasion,5,95,30,80,1000,10,Evasive Support
+Phase 4,Swordsmith Village Arc,Base Demon Form,Defensive,Tanjiro Throw Protection,Ally Target,Ranged,Utility,30,85,75,85,1150,35,Guardian
+Phase 4,Swordsmith Village Arc,Base Demon Form,Blood Demon Art,Blood Spray Flare,AoE (Cone),Medium,Fire,88,70,65,75,1200,65,Nuker
+Phase 4,Swordsmith Village Arc,Base Demon Form,Physical Attack,Structural Break Kick,Single Target,Melee,Bludgeoning,75,65,70,60,1040,40,Striker
+Phase 4,Swordsmith Village Arc,Awakened Form,Passive,Sunlight Immunity Awakening,Self,Self,Buff,0,50,100,90,1500,0,Immunity
+Phase 4,Swordsmith Village Arc,Awakened Form,Utility,Speech Restoration,Self,Self,Buff,0,20,50,85,1400,0,Utility
+Phase 4,Swordsmith Village Arc,Awakened Form,Passive,Muzan Target Marker,Self,Self,Debuff,0,10,20,10,1200,0,Condition
+Phase 5,Hashira Training Arc,Humanized Form,Passive,Human Return Progression,Self,Self,Buff,0,30,40,70,1100,0,Condition
+Phase 5,Hashira Training Arc,Humanized Form,Utility,Tamayo Medicine Assimilation,Self,Self,Heal,0,10,60,80,1250,20,Recovery
+Phase 5,Hashira Training Arc,Humanized Form,Passive,Calm Mind Aura,Self,Self,Buff,0,20,50,85,1050,0,Passive Guard
+Phase 5,Hashira Training Arc,Humanized Form,Utility,Memory Recovery,Self,Self,Buff,0,10,30,95,1300,0,Utility
+Phase 5,Infinity Castle Arc,Humanized Form,Passive,Anti-Demon Serum Processing,Self,Self,Buff,0,20,50,80,1350,0,Condition
+Phase 5,Infinity Castle Arc,Humanized Form,Utility,Human Physiology Recovery,Self,Self,Cleanse,0,10,40,85,1400,30,Recovery
+Phase 5,Sunrise Countdown Arc,Human Form,Passive,Full Human Reversion,Self,Self,Buff,0,20,20,95,1600,0,Condition
+Phase 5,Sunrise Countdown Arc,Human Form,Defensive,Brother Emotional Tether,Ally Target,Melee,Buff,0,30,30,100,1650,50,Support Buff
+Game Mechanics,Fighting Game,Base Demon Form,Special Move,Blood Fire Burst,AoE (Medium),Medium,Fire,82,70,60,60,500,55,Special
+Game Mechanics,Fighting Game,Base Demon Form,Normal Move,Light Claw Slash,Single Target,Melee,Slashing,35,80,40,40,100,5,Striker
+Game Mechanics,Fighting Game,Base Demon Form,Normal Move,Heavy Axe Kick,Single Target,Melee,Bludgeoning,65,50,55,45,250,25,Striker
+Game Mechanics,Fighting Game,Base Demon Form,Special Move,Exploding Blood Trap,Field Trap,Medium,Fire,75,60,50,70,450,45,Tactical
+Game Mechanics,Fighting Game,Berserk Form,Ultimate Art,Exploding Blood: Crimson Hellfire,AoE (Full Screen),Full Screen,Fire,100,80,85,60,1000,100,Ultimate
+Game Mechanics,Fighting Game,Child Form,Evasion Move,Shrink Roll,Self,Self,Evasion,0,90,30,65,200,10,Evasive Support
+Game Mechanics,Fighting Game,Base Demon Form,Counter Move,Heel Catch Counter,Single Target,Melee,Bludgeoning,70,65,65,75,400,35,Counter
+Game Mechanics,Fighting Game,Base Demon Form,Assist Move,Exploding Blood Assist,Ally Target,Medium,Buff / Fire,80,60,50,80,500,50,Support
+Game Mechanics,RPG Mode,Base Demon Form,Active Skill,Pyrokinesis Slash,Single Target,Melee,Fire/Slashing,78,70,55,65,350,40,Striker
+Game Mechanics,RPG Mode,Base Demon Form,Passive Skill,Blood Regeneration,Self,Self,Heal,0,10,80,20,300,0,Sustain
+Game Mechanics,RPG Mode,Base Demon Form,Buff Skill,Demon Drive,Self,Self,Buff,40,60,60,50,400,45,Berserker
+Game Mechanics,RPG Mode,Berserk Form,Ultimate Skill,Demonic Onslaught,Single Target,Melee,Physical/Fire,98,75,80,50,900,90,Nuker
+Game Mechanics,RPG Mode,Base Demon Form,Team Buff,Flaming Nichirin Synergy,Party,Buff,Fire,85,50,60,85,600,65,Enchanter
+Game Mechanics,RPG Mode,Base Demon Form,Crowd Control,Explode Blood Wave,AoE (Large),Ranged,Fire,84,60,55,70,550,60,Crowd Control
+Game Mechanics,RPG Mode,Child Form,Utility Skill,Smite Box Dodge,Self,Self,Defensive,0,85,40,75,250,15,Evasive Support
+Game Mechanics,RPG Mode,Base Demon Form,De-Buff Skill,Regeneration Burn Lock,Single Target,Ranged,Fire,70,55,50,80,450,40,Tactical
+Game Mechanics,RPG Mode,Awakened Form,Passive Skill,Solar Immunity,Self,Self,Buff,0,50,100,90,1000,0,Immunity
+Game Mechanics,Tactical RPG,Base Demon Form,Grid Ability,Blood Fire Line,Linear Grid,Ranged,Fire,76,60,50,70,400,45,Nuker
+Game Mechanics,Tactical RPG,Base Demon Form,Reaction Skill,Vengeful Counter,Single Target,Melee,Bludgeoning,65,60,60,65,350,25,Counter
+Game Mechanics,Tactical RPG,Berserk Form,Command Ability,Demonic Frenzy,Self,Self,Buff,50,80,70,30,750,70,Berserker
+Game Mechanics,Tactical RPG,Child Form,Grid Ability,Narrow Pass Traverse,Self,Self,Utility,0,90,30,70,200,10,Skirmisher
+Game Mechanics,Tactical RPG,Base Demon Form,Support Ability,Blood Sacrifice Enchant,Ally Target,Melee,Buff,70,50,50,80,500,50,Enchanter
